@@ -1,0 +1,10 @@
+.list {
+  display: inline-block;
+  border: 2px solid black;
+  margin: 5px;
+  list-style: none;
+}
+
+.list img {
+  height: 200px;
+}
